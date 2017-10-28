@@ -15,7 +15,7 @@
 		echo "<a href='login.html'>登录</a>";
 	}
 	else if($a==0){
-		echo 'a顶顶顶顶顶顶顶';
+		echo 'dev';
 		echo "<a href='add.html'>注册</a>";
 		echo "<a href='login.html'>登录</a>";
 	}
