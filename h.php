@@ -3,7 +3,7 @@
 		$con = mysql_connect("localhost","mzm","Mzm20050527!");
         if (!$con)
         {
-            die('dev: ' . mysql_error());
+            die('devasasdfdf: ' . mysql_error());
         }
         mysql_select_db("my_db", $con);
 	}
