@@ -15,7 +15,7 @@
 		echo "<a href='login.html'>登录</a>";
 	}
 	else if($a==0){
-		echo 'a撒打发手动阀手动阀手动阀';
+		echo 'a顶顶顶顶顶顶顶';
 		echo "<a href='add.html'>注册</a>";
 		echo "<a href='login.html'>登录</a>";
 	}
